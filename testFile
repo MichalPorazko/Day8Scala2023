@@ -1,0 +1,16 @@
+LRLRRL
+
+AAA = (BBB, CCC)
+BBB = (DDD, EEE)
+CCC = (FFF, GGG)
+DDD = (HHH, III)
+EEE = (JJJ, ZZZ)
+FFF = (ZZZ, KKK)
+GGG = (LLL, MMM)
+HHH = (HHH, ZZZ)
+III = (NNN, OOO)
+JJJ = (ZZZ, III)
+ZZZ = (AAA, JJJ)
+NNN = (GGG, CCC)
+LLL = (OOO, NNN)
+OOO = (ZZZ, AAA)
